@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>false</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>sys_update_xml</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:47:24</sys_created_on>
+        <sys_id>aa92ce41db201010957f84da0b961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_update_xml</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_aa92ce41db201010957f84da0b961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:47:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7a1aa61edbacf7009df22f17d496195a</instance_id>
+        <instance_name>dev78609</instance_name>
+        <name>sys_security_acl_aa92ce41db201010957f84da0b961962</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>sys_update_xml</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 15:47:24</sys_created_on><sys_id>aa92ce41db201010957f84da0b961962</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_update_xml</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_security_acl_aa92ce41db201010957f84da0b961962</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 15:47:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1099928616</payload_hash>
+        <record_name>sys_update_xml</record_name>
+        <reverted_from/>
+        <source>61db6f39db901010957f84da0b9619d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:47:24</sys_created_on>
+        <sys_id>7103c281db201010957f84da0b961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0ebc4e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:47:24</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>b903c28106201010b50884c1ac883984</update_guid>
+        <update_guid_history>b903c28106201010b50884c1ac883984:-1099928616</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 15:49:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2b18647267aa4806a055e45b294a1364</sys_id>
+        <sys_metadata>aa92ce41db201010957f84da0b961962</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_update_xml</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="sys_update_xml">449b3403db001010957f84da0b961918</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_aa92ce41db201010957f84da0b961962</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_aa92ce41db201010957f84da0b961962">7103c281db201010957f84da0b961985</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 15:49:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
